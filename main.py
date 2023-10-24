@@ -1,6 +1,6 @@
 # Create a function called greet()
 
-# Add variable inside the parenthesis
+# Add variable(s) inside the parenthesis
 def greet(name, nationality, food):
     # Write 3 print statements inside the function
     print(f"Hello my name is {name}")
