@@ -29,6 +29,7 @@ def cesar(directionUser, userText, shiftAmount):
     else:
         print("See you :D")
 
+
 shift = shift % 26
 
 cesar(direction, text, shift)
